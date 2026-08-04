@@ -1,8 +1,3 @@
-## Hi there 👋
-
-
-**IsinduDuldara/IsinduDuldara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Isindu Duldara Thilakarathna</h1>
 <h3 align="center">🎓 IT Undergraduate at SLIIT | Aspiring Software Developer | Web & Mobile Development | Java | JavaScript | React | Node.js | MySQL | GitHub</h3>
 
